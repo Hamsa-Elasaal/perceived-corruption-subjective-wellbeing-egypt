@@ -56,9 +56,9 @@ My contribution to the group project included:
 **Academic Year:** 2025/2026
 
 ## Repository Contents
-- `R/all grade project.R` — R script containing data preparation and statistical analyses, including supplementary attempted analyses.
-- `Report/` — final graduation research report (PDF).
-- `DATA-SOURCE.md` — information about the original WVS data source.
+- [graduation_project_analysis.R](graduation_project_analysis.R) — R script containing data preparation and statistical analyses, including supplementary attempted analyses.
+- [The Influence of Perceived Corruption on Subjective Well-Being in Egypt.pdf](The%20Influence%20of%20Perceived%20Corruption%20on%20Subjective%20Well-Being%20in%20Egypt.pdf) — final graduation research report (PDF).
+- [DATA-SOURCE.md](DATA-SOURCE.md) — information about the original WVS data source.
 
 ---
 This repository documents an academic group project. The final report and R script should be read together, noting that not every analysis implemented in the script was retained in the final report.
