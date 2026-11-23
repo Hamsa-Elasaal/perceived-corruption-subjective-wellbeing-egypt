@@ -22,6 +22,17 @@ The final report presents:
 
 The report estimates a polychoric correlation of 0.569 (SE = 0.023) between happiness and life satisfaction, and a residual correlation of 0.322 (SE = 0.038) in the bivariate ordered probit model.
 
+## Key Findings
+
+- **Perceived bribery lowers life satisfaction.** It had a significant negative effect across all levels, reducing the probability of being completely satisfied with life by 12 to 14 percentage points. It did not significantly affect happiness in the same way.
+- **Nepotism is more complex.** Moderate levels were associated with lower well-being, while the highest levels of acceptance showed slightly higher life satisfaction, which the report reads as psychological adaptation.
+- **Economic satisfaction is the strongest driver** of both happiness and life satisfaction in every model estimated.
+- **Other associations:** feeling safe in the neighborhood, being married, stable full-time work, middle-class status and doing better than one's parents were linked to higher well-being. Women reported higher happiness and life satisfaction than men after controlling for other factors.
+- **Model quality:** the happiness model showed good discrimination (cumulative AUC between 0.82 and 0.85).
+- The bivariate ordered probit model confirmed the results of the separate models.
+
+*These are associations from cross-sectional survey data, not causal effects.*
+
 ## Exploratory and Additional R Analyses
 The R script also contains additional model specifications and analyses beyond those reported as final findings. These include path-analysis specifications and mediation analyses, as well as other supplementary model explorations.
 
